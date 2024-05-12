@@ -1,0 +1,23 @@
+{
+  "name": "js_backend",
+  "version": "1.0.0",
+  "description": "backend\u001b[D\u001b[D\u001b[D-\u001b[1;5C\u001b[1;5C\u001b[D\u001b[De\u001b[C\u001b[Dnd part",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YnoGasa/js_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YnoGasa/js_backend/issues"
+  },
+  "homepage": "https://github.com/YnoGasa/js_backend#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.6.0"
+  }
+}
